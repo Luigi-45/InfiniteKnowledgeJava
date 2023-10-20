@@ -1,0 +1,66 @@
+dic. 15, 2022 3:12:29 P. M. DataAccessLayer.CursoDAO listarCursosParaDocente
+INFO: Listado de cursos para docente
+dic. 15, 2022 3:12:33 P. M. DataAccessLayer.CursoDAO listarCursosParaDocente
+INFO: Listado de cursos para docente
+dic. 15, 2022 3:12:33 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:12:34 P. M. DataAccessLayer.CursoDAO listarCursosParaDocente
+INFO: Listado de cursos para docente
+dic. 15, 2022 3:13:22 P. M. DataAccessLayer.CursoDAO listarCursosParaDocente
+INFO: Listado de cursos para docente
+dic. 15, 2022 3:13:22 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:13:24 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:14:22 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:14:42 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:14:43 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:14:56 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:15:02 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:15:07 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:15:22 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:15:23 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:16:22 P. M. DataAccessLayer.CursoDAO listarNombresPorDniEstudiante
+INFO: Listado de cursos por DNI de Estudiante
+dic. 15, 2022 3:16:52 P. M. DataAccessLayer.CursoDAO listarCursosParaDocente
+INFO: Listado de cursos para docente
+dic. 15, 2022 3:17:06 P. M. DataAccessLayer.CursoDAO buscarPorNombre
+INFO: Búsqueda de cursos por nombre
+dic. 15, 2022 3:17:08 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:28 P. M. DataAccessLayer.CursoDAO listarNombresPorDniEstudiante
+INFO: Listado de cursos por DNI de Estudiante
+dic. 15, 2022 3:17:46 P. M. DataAccessLayer.CursoDAO listarNombresPorDniEstudiante
+INFO: Listado de cursos por DNI de Estudiante
+dic. 15, 2022 3:17:46 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:46 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:47 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:49 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:50 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:51 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:52 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto
+dic. 15, 2022 3:17:53 P. M. DataAccessLayer.CursoDAO buscarPorNombreExacto
+INFO: Búsqueda de cursos por nombre exacto

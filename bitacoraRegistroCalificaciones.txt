@@ -1,0 +1,38 @@
+dic. 15, 2022 3:12:33 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:13:22 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:13:24 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:13:42 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:14:42 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:15:02 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:15:22 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarParaDocente
+INFO: Búsqueda de Registros de Calificaciones para Docente
+dic. 15, 2022 3:17:08 P. M. DataAccessLayer.RegistroCalificacionesDAO insertarCompleto
+INFO: Inserción del Registro de Calificaciones por los 4 bimestres
+dic. 15, 2022 3:17:46 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:46 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:47 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:49 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:50 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:51 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:52 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante
+dic. 15, 2022 3:17:53 P. M. DataAccessLayer.RegistroCalificacionesDAO buscarPorDNIEstudiante2
+INFO: Búsqueda de Registro de Calificaciones por DNI de Estudiante

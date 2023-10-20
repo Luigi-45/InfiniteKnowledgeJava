@@ -1,0 +1,18 @@
+dic. 15, 2022 3:12:28 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI
+dic. 15, 2022 3:13:37 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI
+dic. 15, 2022 3:14:56 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI
+dic. 15, 2022 3:15:07 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI
+dic. 15, 2022 3:15:23 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI
+dic. 15, 2022 3:16:50 P. M. DataAccessLayer.DocenteDAO buscar_por_nombre_completo
+INFO: Búsqueda de Docente por Nombre Completo
+dic. 15, 2022 3:16:52 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI
+dic. 15, 2022 3:16:56 P. M. DataAccessLayer.DocenteDAO buscar_por_nombre_completo
+INFO: Búsqueda de Docente por Nombre Completo
+dic. 15, 2022 3:16:58 P. M. DataAccessLayer.DocenteDAO buscarPorDNI
+INFO: Búsqueda de Docente por DNI

@@ -1,0 +1,10 @@
+dic. 15, 2022 3:16:22 P. M. DataAccessLayer.EstudianteDAO buscar_por_dni
+INFO: Búsqueda de Estudiante por DNI
+dic. 15, 2022 3:17:00 P. M. DataAccessLayer.EstudianteDAO buscar_por_nombre_completo
+INFO: Búsqueda de Estudiante por Nombre Completo
+dic. 15, 2022 3:17:02 P. M. DataAccessLayer.EstudianteDAO buscar_por_dni
+INFO: Búsqueda de Estudiante por DNI
+dic. 15, 2022 3:17:26 P. M. DataAccessLayer.EstudianteDAO buscar_por_dni
+INFO: Búsqueda de Estudiante por DNI
+dic. 15, 2022 3:17:54 P. M. DataAccessLayer.EstudianteDAO buscar_por_dni
+INFO: Búsqueda de Estudiante por DNI

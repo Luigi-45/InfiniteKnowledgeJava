@@ -1,0 +1,2 @@
+dic. 15, 2022 3:11:44 P. M. DataAccessLayer.DirectorAcademicoDAO buscar_nombre_completo
+INFO: Búsqueda de nombre completo de  Director Académico
